@@ -1,0 +1,10 @@
+.Navigation {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.5em;
+}
+
+.navigation__center > h1 {
+  color: #4e78f6;
+}
